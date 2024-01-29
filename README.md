@@ -17,7 +17,7 @@ a self-made newspaper about Tupac Shakur to just exercise grid in CSS, hope you 
 developed by: Mehdi Zarei</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/1/30
-## :iPhone: Contact
+## :iphone: Contact
 - [instagram](https://instagram.com/mehdi_zarei-web)
 - [linkedin](https://linkedin.com/in/mahdi-zri)
 - [E-mail](mahdizarei22019@gmail.com)
