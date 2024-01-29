@@ -13,7 +13,7 @@
 - CSS
 - SCSS
 ## :page_facing_up: description
-a self-made newspaper about Tupac Shakur in order to just exercise grid in CSS, hope you enjoy it</br>
+a self-made newspaper about Tupac Shakur to just exercise grid in CSS, hope you enjoy it.</br>
 developed by: Mehdi Zarei</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/1/30
