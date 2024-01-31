@@ -1,7 +1,7 @@
 # Newspaper
 ![view](https://github.com/Mehdi-Zaree/newspaper-grid/assets/155577064/acf05b6b-5562-48ac-ae9d-e7d7983fed83)
 <p align="center">
-<a href="https://mehdi-zaree.github.io/newspaper-grid/" target="_blank"> view demo</a> .
+<a href="https://mehdi-zaree.github.io/newspaper-grid/"target="_blank"> view demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
 
